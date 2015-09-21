@@ -1,0 +1,21 @@
+/* 
+    Created on : Mar 4, 2015, 10:21:50 AM
+    Author     : Luming
+*/ 
+.chart-title {
+    -fx-text-fill: #4682b4;
+    -fx-font-size: 1.6em;
+}
+
+.axis-label {
+    -fx-text-fill: #4682b4;
+}
+
+.chart-line-symbol{
+    -fx-background-color: black;
+    -fx-padding: 2px;
+}
+
+line0.chart-series-line{
+    -fx-fill: red;
+}
